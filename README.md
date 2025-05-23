@@ -1,4 +1,4 @@
-##Ex04: Slot Timetable
+# Ex04 Time Table
 ## Date:
 03/05/2025
 ## AIM
